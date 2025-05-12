@@ -1,7 +1,9 @@
-🛍️ Product Clustering Analysis
+# 🛍️ Product Clustering Analysis
+----------------------------------
 This repository contains a Jupyter Notebook that performs clustering analysis on a dataset of products. The main objective is to group similar products together based on their features using unsupervised machine learning techniques.
 
-📌 Project Overview
+## 📌 Project Overview
+---------------------
 This notebook focuses on:
 
 Loading and exploring product-related data
@@ -14,7 +16,8 @@ Evaluating optimal clusters using the Elbow Method
 
 Visualizing the clustered groups
 
-📊 Use Cases
+### 📊 Use Cases
+------------------
 Product categorization
 
 Market segmentation
@@ -23,7 +26,8 @@ Recommendation systems
 
 Inventory management
 
-🧰 Technologies & Libraries
+### 🧰 Technologies & Libraries
+---------------------------------
 Python 3.x
 
 Pandas
@@ -34,7 +38,8 @@ Matplotlib / Seaborn
 
 Scikit-learn
 
-📂 File Structure
+### 📂 File Structure
+-----------------------
 bash
 Copy
 Edit
@@ -62,7 +67,8 @@ Edit
 jupyter notebook Product_Clustering_Analysis.ipynb
 ⚠️ Make sure your environment has the necessary data file(s) expected by the notebook. If the dataset is not provided in the repo, you may need to modify the notebook to load your own.
 
-📈 Output
+### 📈 Output
+--------------
 The notebook generates:
 
 Cluster assignments for each product
