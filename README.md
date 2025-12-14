@@ -1,3 +1,4 @@
+![image alt](https://github.com/ashishpradeep14/Product-clustering/blob/6a69d96cead1e1a88790baddd57bd479eb040fcc/product%20sales.png)
 # 🛍️ Product Clustering Analysis
 ----------------------------------
 This repository contains a Jupyter Notebook that performs clustering analysis on a dataset of products. The main objective is to group similar products together based on their features using unsupervised machine learning techniques.
